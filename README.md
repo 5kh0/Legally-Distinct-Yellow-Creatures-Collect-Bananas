@@ -1,2 +1,11 @@
 # Legally-Distinct-Yellow-Creatures-Collect-Bananas
-silly little sprig game
+"the greatest game ever made" -nobody
+# Author name
+Author: 5kh0
+
+# About your game
+What is your game about?
+A silly little game made with Sprig where you are a minio- sorry, Legally Distinct Yellow Creature, collecting bananas. Enjoy the extremely repetitive gameplay, collecting the most points to be like cool and stuff. If you get 1,000,000 points, I will give you 1 cent or something.
+
+# How do you play your game?
+WASD to move. Collect bananas.
