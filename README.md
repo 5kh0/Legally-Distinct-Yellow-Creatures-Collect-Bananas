@@ -10,7 +10,7 @@ A silly little game made with Sprig where you are a minio- sorry, Legally Distin
 # How do you play your game?
 WASD to move. Collect bananas.
 
-#Update Log
+# Update Log
 
 1/24/25
 Version 1.1
