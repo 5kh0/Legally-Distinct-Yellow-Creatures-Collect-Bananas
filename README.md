@@ -9,3 +9,16 @@ A silly little game made with Sprig where you are a minio- sorry, Legally Distin
 
 # How do you play your game?
 WASD to move. Collect bananas.
+
+#Update Log
+
+1/24/25
+Version 1.1
+Add shields to make you invincible for a 5 seconds
+New Player sprite when shielded
+Make bananas spawn randomly at start
+430 lines
+
+1/23/25
+Release V1 of game
+359 lines
