@@ -14,11 +14,11 @@ WASD to move. Collect bananas.
 
 1/24/25
 Version 1.1
-Add shields to make you invincible for a 5 seconds
-New Player sprite when shielded
-Make bananas spawn randomly at start
-430 lines
+Add shields to make you invincible for a 5 seconds,
+New Player sprite when shielded,
+Make bananas spawn randomly at start,
+430 lines,
 
 1/23/25
-Release V1 of game
-359 lines
+Release V1 of game,
+359 lines,  
