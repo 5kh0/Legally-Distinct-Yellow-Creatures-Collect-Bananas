@@ -12,7 +12,7 @@ WASD to move. Collect bananas.
 
 # Update Log
 
-1/24/25
+1/24/29
 Version 1.1
 Add shields to make you invincible for a 5 seconds,
 New Player sprite when shielded,
